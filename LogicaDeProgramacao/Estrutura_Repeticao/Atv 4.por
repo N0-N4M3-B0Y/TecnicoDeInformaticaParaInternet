@@ -9,7 +9,7 @@ programa
 		inteiro num = 1000
 		enquanto(num > 100){
 			escreva("\nNum é :", num)
-			num = num - 50
+			num = num - 150
 			se(num == 100){
 				escreva("\nCabou, num chegou a: ", num)
 				}
